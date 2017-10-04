@@ -18,7 +18,7 @@ So here it goes, without any prioritization, the ***Twenty six things to do befo
 - [ ] [Finish and print](https://github.com/alignan/cuento-erin-y-poki) the book for my daughter before Christmas
 - [ ] Deploy a microservice using [Docker](https://www.docker.com) because Docker is fun...
 - [ ] Brew a home made beer
-- [ ] Learn a book about beers (because I envy people who know about different types of beers...)
+- [ ] Read a book about beers (because I envy people who know about different types of beers...)
 - [ ] Road trip with my wife and daughter (longer than a day)
 - [ ] Try to understand how [AWS](https://aws.amazon.com) works... for real...
 - [ ] Create a self-watering application (with sensors and other stuff) for my plant (see list above)
