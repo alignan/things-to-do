@@ -9,7 +9,7 @@ So here it goes, without any prioritization, the ***Twenty six things to do befo
 - [X] [Code my own blog (DONE!)](https://github.com/alignan/argos-library)
 - [ ] Prepare an [ajiaco](https://en.wikipedia.org/wiki/Ajiaco)
 - [ ] Implement and document a [LoRa](https://www.lora-alliance.org) application 
-- [X] Buy a plant
+- [X] [Buy a plant (DONE!)](https://alignan.github.io/post/my-new-bonsai/)
 - [ ] Catch three [geocaches](https://www.geocaching.com/play) in three different cities
 - [X] [Implement Travis in a project (DONE!)](https://alignan.github.io/2017/10/02/deploy-hugo-to-github/)
 - [ ] Create one [Slack](https://slack.com) integration
