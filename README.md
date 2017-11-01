@@ -7,7 +7,7 @@ Why 26? because I hope to do at least two per week (I'm writing this on Septembe
 So here it goes, without any prioritization, the ***Twenty six things to do before 2017 ends***
 
 - [X] [Code my own blog (DONE!)](https://github.com/alignan/argos-library)
-- [ ] Prepare an [ajiaco](https://en.wikipedia.org/wiki/Ajiaco)
+- [X] Prepare an [ajiaco](https://en.wikipedia.org/wiki/Ajiaco) [(DONE!)](https://alignan.github.io/post/making-an-ajiaco/)
 - [ ] Implement and document a [LoRa](https://www.lora-alliance.org) application 
 - [X] [Buy a plant (DONE!)](https://alignan.github.io/post/my-new-bonsai/)
 - [ ] Catch three [geocaches](https://www.geocaching.com/play) in three different cities
