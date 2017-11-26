@@ -15,7 +15,7 @@ So here it goes, without any prioritization, the ***Twenty six things to do befo
 - [ ] Create one [Slack](https://slack.com) integration
 - [ ] Make a funny movie with my daughter and wife
 - [ ] Create one [Alexa skill](https://www.amazon.com/b?node=13727921011)
-- [ ] [Finish and print](https://github.com/alignan/cuento-erin-y-poki) the book for my daughter before Christmas
+- [X] [Finish and print](https://github.com/alignan/cuento-erin-y-poki) the book for my daughter before Christmas
 - [ ] Deploy a microservice using [Docker](https://www.docker.com) because Docker is fun...
 - [ ] Brew a home made beer
 - [ ] Read a book about beers (because I envy people who know about different types of beers...)
