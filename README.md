@@ -20,7 +20,7 @@ So here it goes, without any prioritization, the ***Twenty six things to do befo
 - [ ] Brew a home made beer
 - [ ] Read a book about beers (because I envy people who know about different types of beers...)
 - [ ] Road trip with my wife and daughter (longer than a day)
-- [X] Try to understand how [AWS](https://aws.amazon.com) works... for real...
+- [X] Try to understand how [AWS](https://aws.amazon.com) works... for real... [(DONE!)](https://www.udemy.com/aws-concepts/learn/v4/content)
 - [ ] Create a self-watering application (with sensors and other stuff) for my plant (see list above)
 - [ ] Fund my own company
 - [ ] Run a 10K race, compete against myself and win
