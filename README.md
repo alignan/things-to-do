@@ -30,5 +30,5 @@ So here it goes, without any prioritization, the ***Twenty six things to do befo
 - [ ] Write a guide about using [Rust](https://www.rust-lang.org/en-US/) on an embedded BLE platform
 - [ ] Implement and document a [NBIoT](https://en.wikipedia.org/wiki/NarrowBand_IOT) application
 - [ ] Write a blog post while drunk
-- [ ] Sing in a karaoke party
+- [X] [Sing in a karaoke party (DONE!)](https://alignan.github.io/post/karaoke/)
 - [ ] Join a group (meetup, etc.) and actively collaborate
