@@ -18,7 +18,7 @@ So here it goes, without any prioritization, the ***Twenty six things to do befo
 - [X] [Finish and print](https://github.com/alignan/cuento-erin-y-poki) the book for my daughter before Christmas
 - [X] Deploy a microservice using [Docker](https://www.docker.com) because Docker is fun... [DONE!](https://alignan.github.io/post/monitoring-plant-resin-io/)
 - [ ] Brew a home made beer
-- [ ] Read a book about beers (because I envy people who know about different types of beers...)
+- [X] Read a book about beers (because I envy people who know about different types of beers...) [DONE!](https://alignan.github.io/post/a-book-about-beers/)
 - [ ] Road trip with my wife and daughter (longer than a day)
 - [X] Try to understand how [AWS](https://aws.amazon.com) works... for real... [(DONE!)](https://www.udemy.com/aws-concepts/learn/v4/content)
 - [X] [Create a self-watering application (with sensors and other stuff) for my plant (DONE!)](https://alignan.github.io/post/monitoring-plant-resin-io/)
