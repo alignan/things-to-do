@@ -1,10 +1,10 @@
 # My 2017 challenge: 26 things to do before the year ends
 
-Although 2017 is just three months to end, it is better now than never to start this challenge, which I originally read from ["100 things Justing could make in 2016"](https://docs.google.com/document/d/16gVonXDjdvlj6yBP-hOmbktugZ3-QkLOw_nhRN9xlUs/edit) upon looking for things that, once again, would motivate my lazy ass to go beyond my comfort zone.
+~~Although 2017 is just three months to end, it is better now than never to start this challenge~~ The 2017 year is over now, and this challenge, which I originally read from ["100 things Justing could make in 2016"](https://docs.google.com/document/d/16gVonXDjdvlj6yBP-hOmbktugZ3-QkLOw_nhRN9xlUs/edit) is finally over, ~~upon looking for things that, once again, would motivate my lazy ass to go beyond my comfort zone~~ and it gave me just the right amount of motivation to work on pending and new stuff, but also to look at life through a different lense.  Even though I didn't manage to finish all my objectives (I was far too optimistic), a 42% completion (15 open & 11 closed) is not bad (way better than my usual 0%).
 
-Why 26? because I hope to do at least two per week (I'm writing this on September 20th)
+~~Why 26? because I hope to do at least two per week (I'm writing this on September 20th)~~ I will finish the pending objectives by 2018, however, I will move its corresponding `issue` to a new milestone, and keep a static list here to reflect the completion of the 2017 goals.
 
-So here it goes, without any prioritization, the ***Twenty six things to do before 2017 ends***
+Here is my list of completed and pending objectives, the ***Twenty six things to do before 2017 ends***
 
 - [X] [Code my own blog (DONE!)](https://github.com/alignan/argos-library)
 - [X] Prepare an [ajiaco](https://en.wikipedia.org/wiki/Ajiaco) [(DONE!)](https://alignan.github.io/post/making-an-ajiaco/)
