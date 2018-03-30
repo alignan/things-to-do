@@ -12,7 +12,7 @@ From 2017:
 - [ ] Make a funny movie with my daughter and wife
 - [ ] Create one [Alexa skill](https://www.amazon.com/b?node=13727921011)
 - [ ] Brew a home made beer
-- [ ] Road trip with my wife and daughter (longer than a day)
+- [X] [Road trip with my wife ~~and daughter~~ (longer than a day) [DONE!]](https://alignan.github.io/post/trip-to-berlin/)
 - [ ] Fund my own company
 - [ ] Run a 10K race, compete against myself and win
 - [ ] Take my wife to dance
