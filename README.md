@@ -26,7 +26,7 @@ From 2017:
 From 2018:
 - [ ] Lose 15Kg (as of today I'm 102Kg - to be revisit end of the year)
 - [ ] Learn how to play a musical instrument
-- [ ] Find 6 Geocaches in three different cities
+- [X] Find 6 Geocaches in three different cities
 - [ ] Design and manufacture my own PCB
 - [ ] Learn how to program a PLC
 - [X] Finish a game (any game, but finish from begining to end)
