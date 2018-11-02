@@ -29,9 +29,9 @@ From 2018:
 - [ ] Find 6 Geocaches in three different cities
 - [ ] Design and manufacture my own PCB
 - [ ] Learn how to program a PLC
-- [ ] Finish a game (any game, but finish from begining to end)
-- [ ] Travel to a new country for more than a day
+- [X] Finish a game (any game, but finish from begining to end)
+- [X] Travel to a new country for more than a day
 - [ ] Create an electronic application with my wife and daughter
-- [ ] Smarten my house (with at least three "intelligent" things)
+- [X] Smarten my house (with at least three "intelligent" things)
 - [ ] Build something cool with my hands (not electronic-software related)
-- [ ] Read 3 books
+- [X] Read 3 books
